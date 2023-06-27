@@ -1,8 +1,8 @@
 import './App.css'
-import { ComponenteFunciona } from './assets/components/ComponenteFunciona'
-import { Header } from './assets/components/Header'
-import { HolaMundo } from './assets/components/HolaMundo'
-import { Watch } from './assets/components/Watch'
+import { ComponenteFunciona } from './components/ComponenteFunciona'
+import { Header } from './components/Header'
+import { HolaMundo } from './components/HolaMundo'
+import { Watch } from './components/Watch'
 
 
 
