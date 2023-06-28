@@ -18,9 +18,9 @@ function App(): JSX.Element {
       <Title title="Te doy la bienvenida a tu primera tienda online creada con Typescript y React ⚛️"/>
       <ProductList/>
       </div>
-      {/* <h1 className='text-red-500 font-bold text-lg'>Hola Mundo</h1> */}
-      {/* <HolaMundo/> */}
-      {/* <ComponenteFunciona name={'Componente sin usar una interface'}/> */}
+      <h1 className='text-red-500 font-bold text-lg'>Hola Mundo</h1>
+      <HolaMundo/>
+      <ComponenteFunciona name={'Componente sin usar una interface'}/>
     </div>
   )
 }
