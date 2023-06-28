@@ -1,5 +1,3 @@
-import React from 'react'
-
 interface ProductProps {
     image: string,
     title: string,
